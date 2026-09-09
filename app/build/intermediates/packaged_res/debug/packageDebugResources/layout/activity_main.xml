@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#EAF2FB">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:text="@string/titolo"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#1E88E5" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/bicchiere"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:layout_marginTop="74dp"
+        app:lottie_rawRes="@raw/animazione"
+        app:lottie_autoPlay="false"
+        app:lottie_loop="false" />
+
+    <TextView
+        android:id="@+id/testo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-38dp"
+        android:textSize="18sp"
+        android:textColor="#333333"
+        android:text="@string/litri_zero" />
+
+    <TextView
+        android:id="@+id/bottoneBevi"
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/goccia_button"
+        android:text="@string/bevi"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:gravity="center"
+        android:clickable="true"
+        android:focusable="true" />
+
+</LinearLayout>

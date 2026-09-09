@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-debug-32:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-main-34:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-debug-32:\\drawable_goccia_press.xml.flat",
+        "source": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-main-34:\\drawable\\goccia_press.xml"
+    },
+    {
+        "merged": "com.example.drinkabit.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.drinkabit.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-debug-32:\\drawable_goccia.xml.flat",
+        "source": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-main-34:\\drawable\\goccia.xml"
+    },
+    {
+        "merged": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-debug-32:\\raw_animazione.json.flat",
+        "source": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-main-34:\\raw\\animazione.json"
+    },
+    {
+        "merged": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-debug-32:\\drawable_goccia_button.xml.flat",
+        "source": "C:\\Users\\gianluca\\.gradle\\daemon\\8.9\\com.example.drinkabit.app-main-34:\\drawable\\goccia_button.xml"
+    }
+]

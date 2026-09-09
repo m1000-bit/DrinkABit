@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable goccia
+drawable goccia_button
+drawable goccia_press
+drawable ic_launcher
+id bicchiere
+id bottoneBevi
+id testo
+layout activity_main
+raw animazione
+string app_name
+string bevi
+string litri_zero
+string titolo
+style Theme.DrinkABit

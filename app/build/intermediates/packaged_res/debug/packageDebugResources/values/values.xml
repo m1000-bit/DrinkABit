@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drink A Bit</string>
+    <string name="bevi">+</string>
+    <string name="litri_zero">Hai bevuto 0 litri su 2</string>
+    <string name="titolo">Drink A Bit</string>
+    <style name="Theme.DrinkABit" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>
